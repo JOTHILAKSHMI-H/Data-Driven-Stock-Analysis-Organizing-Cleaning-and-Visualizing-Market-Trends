@@ -8,15 +8,15 @@
  Processes raw YAML stock data to convert it into structured CSV files.
 
 ### Stock Performance Analysis
- Highlights top-performing stocks in green and worst-performing stocks in red for quick identification.
+  Highlights top-performing stocks in green and worst-performing stocks in red for quick identification.
 
- Analyzes stock volatility and calculates cumulative returns over specific periods.
+  Analyzes stock volatility and calculates cumulative returns over specific periods.
 
- Delivers sector-based performance insights to track trends across industries.
+  Delivers sector-based performance insights to track trends across industries.
 
- Identifies the top 5 gainers and top 5 losers for each month, based on percentage changes in stock prices.
+  Identifies the top 5 gainers and top 5 losers for each month, based on percentage changes in stock prices.
 
- Displays the top 10 stocks with the highest correlations, enabling users to explore stock.
+  Displays the top 10 stocks with the highest correlations, enabling users to explore stock.
 
 ### Interactive Dashboards
 
